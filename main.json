@@ -1,0 +1,9 @@
+{
+  "temp": 20.0,
+  "temp_reg": 25.4,
+  "hum": 15,
+  "hum_reg": 15.6,
+  "leak": false,
+  "dust": false,
+  "gas": false
+}
